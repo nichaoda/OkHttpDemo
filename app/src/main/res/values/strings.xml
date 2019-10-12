@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">OKHttpDemo</string>
     <string name="get_method">Get</string>
+    <string name="post_method">Post</string>
 </resources>
